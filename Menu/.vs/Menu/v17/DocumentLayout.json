@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90DADD91-729C-465E-B0A3-9EC8AE4C6CE6}|Menu\\Menu.csproj|c:\\users\\sayerdis\\desktop\\zona trabajo - sergio\\sjar\\asp net core\\menu\\menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DADD91-729C-465E-B0A3-9EC8AE4C6CE6}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DADD91-729C-465E-B0A3-9EC8AE4C6CE6}|Menu\\Menu.csproj|c:\\users\\sayerdis\\desktop\\zona trabajo - sergio\\sjar\\asp net core\\menu\\menu\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DADD91-729C-465E-B0A3-9EC8AE4C6CE6}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DADD91-729C-465E-B0A3-9EC8AE4C6CE6}|Menu\\Menu.csproj|c:\\users\\sayerdis\\desktop\\zona trabajo - sergio\\sjar\\asp net core\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DADD91-729C-465E-B0A3-9EC8AE4C6CE6}|Menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DADD91-729C-465E-B0A3-9EC8AE4C6CE6}|Menu\\Menu.csproj|c:\\users\\sayerdis\\desktop\\zona trabajo - sergio\\sjar\\asp net core\\menu\\menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90DADD91-729C-465E-B0A3-9EC8AE4C6CE6}|Menu\\Menu.csproj|solutionrelative:menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DADD91-729C-465E-B0A3-9EC8AE4C6CE6}|Menu\\Menu.csproj|c:\\users\\sayerdis\\desktop\\zona trabajo - sergio\\sjar\\asp net core\\menu\\menu\\dto\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DADD91-729C-465E-B0A3-9EC8AE4C6CE6}|Menu\\Menu.csproj|solutionrelative:menu\\dto\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T04:54:28.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\Menu\\Controllers\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu\\Controllers\\Menu.cs",
+              "ToolTip": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\Menu\\Controllers\\Menu.cs",
+              "RelativeToolTip": "Menu\\Controllers\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:52:46.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\Menu\\Program.cs",
+              "RelativeDocumentMoniker": "Menu\\Program.cs",
+              "ToolTip": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\Menu\\Program.cs",
+              "RelativeToolTip": "Menu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:52:33.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\Menu\\appsettings.json",
+              "RelativeDocumentMoniker": "Menu\\appsettings.json",
+              "ToolTip": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\Menu\\appsettings.json",
+              "RelativeToolTip": "Menu\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T01:51:30.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\Menu\\Dto\\MenuContext.cs",
+              "RelativeDocumentMoniker": "Menu\\Dto\\MenuContext.cs",
+              "ToolTip": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\Menu\\Menu\\Dto\\MenuContext.cs",
+              "RelativeToolTip": "Menu\\Dto\\MenuContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:09:08.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
